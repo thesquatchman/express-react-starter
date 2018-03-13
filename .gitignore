@@ -1,3 +1,11 @@
+#local assets
+misc/
+
+#Editor
+.eslintrc
+.eslintignore
+
+
 # Logs
 logs
 *.log
